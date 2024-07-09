@@ -12,13 +12,6 @@ This application will show the temperature of a location by find the device’s 
 <img width="50px" src="https://ik.imagekit.io/ybyfbcvb8/html-5.png?updatedAt=1692968478517"/> <img width="50px" src="https://ik.imagekit.io/ybyfbcvb8/css-3.png?updatedAt=1692968478430"/> <img width="50px" src="https://ik.imagekit.io/ybyfbcvb8/js.png?updatedAt=1692968478459"/>
 
 
-## Screenshots
-![Music Player - Google Chrome 26-08-2023 17_21_45](https://github.com/Lakshmikalpana1131)
-
-
-
-
-
 ## Live on
 /https://github.com/Lakshmikalpana1131/
 
